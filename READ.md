@@ -1,0 +1,1 @@
+For this project, we’re going to use CSS Flexbox, a recent set of CSS properties that work with recent browsers.
